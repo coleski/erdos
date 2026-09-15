@@ -19,8 +19,3 @@ questions grouped under [problem #168](https://www.erdosproblems.com/168).
 
 [Complete proof](168/PROOF.md) · [Lean theorem](168/lean/Erdos168.lean) ·
 [Verification and build instructions](168/VERIFICATION.md) · [Prior work](168/PRIOR_ART.md)
-
-Cole Benefield, with OpenAI Codex. September 2026.
-
-Thanks to Joshua Wolk for creating Jig, and to Declan Gessel for inspiring
-me to try my hand at solving a problem.
