@@ -1,4 +1,7 @@
-import Mathlib
+import Mathlib.Order.Interval.Finset.Nat
+import Mathlib.Topology.Algebra.Order.LiminfLimsup
+import Mathlib.Topology.Instances.RealVectorSpace
+import Mathlib.Tactic
 
 open Filter Finset
 open scoped Topology
